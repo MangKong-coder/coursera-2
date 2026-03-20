@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="sky7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#64b5f6"/>
+      <stop offset="100%" stop-color="#e3f2fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#sky7)"/>
+  <ellipse cx="200" cy="400" rx="300" ry="180" fill="#66bb6a"/>
+  <ellipse cx="100" cy="380" rx="200" ry="80" fill="#4caf50"/>
+  <circle cx="80" cy="300" r="8" fill="#e53935"/>
+  <circle cx="75" cy="295" r="8" fill="#e53935"/>
+  <circle cx="85" cy="295" r="8" fill="#e53935"/>
+  <circle cx="80" cy="290" r="4" fill="#ffeb3b"/>
+  <circle cx="200" cy="280" r="8" fill="#ab47bc"/>
+  <circle cx="195" cy="275" r="8" fill="#ab47bc"/>
+  <circle cx="205" cy="275" r="8" fill="#ab47bc"/>
+  <circle cx="200" cy="270" r="4" fill="#fff176"/>
+  <circle cx="320" cy="310" r="7" fill="#ff7043"/>
+  <circle cx="315" cy="305" r="7" fill="#ff7043"/>
+  <circle cx="325" cy="305" r="7" fill="#ff7043"/>
+  <circle cx="320" cy="300" r="4" fill="#fff176"/>
+  <circle cx="150" cy="340" r="6" fill="#42a5f5"/>
+  <circle cx="145" cy="336" r="6" fill="#42a5f5"/>
+  <circle cx="155" cy="336" r="6" fill="#42a5f5"/>
+  <circle cx="150" cy="332" r="3" fill="#fff176"/>
+  <circle cx="280" cy="350" r="6" fill="#ec407a"/>
+  <circle cx="275" cy="346" r="6" fill="#ec407a"/>
+  <circle cx="285" cy="346" r="6" fill="#ec407a"/>
+  <circle cx="280" cy="342" r="3" fill="#fff176"/>
+  <ellipse cx="300" cy="80" rx="50" ry="25" fill="#fff" opacity="0.8"/>
+  <ellipse cx="280" cy="75" rx="35" ry="22" fill="#fff" opacity="0.9"/>
+</svg>

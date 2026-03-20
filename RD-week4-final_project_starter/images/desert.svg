@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff8a65"/>
+      <stop offset="100%" stop-color="#ffcc80"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#sky4)"/>
+  <circle cx="320" cy="80" r="40" fill="#fff176"/>
+  <ellipse cx="200" cy="350" rx="300" ry="100" fill="#e6a23c"/>
+  <ellipse cx="100" cy="370" rx="200" ry="80" fill="#d4915c"/>
+  <rect x="160" y="240" width="8" height="80" fill="#2e7d32"/>
+  <ellipse cx="164" cy="240" rx="20" ry="8" fill="#388e3c"/>
+  <line x1="150" y1="260" x2="140" y2="245" stroke="#2e7d32" stroke-width="4"/>
+  <line x1="178" y1="260" x2="188" y2="245" stroke="#2e7d32" stroke-width="4"/>
+  <rect x="300" y="260" width="6" height="60" fill="#2e7d32"/>
+  <ellipse cx="303" cy="260" rx="15" ry="6" fill="#388e3c"/>
+  <line x1="293" y1="275" x2="283" y2="265" stroke="#2e7d32" stroke-width="3"/>
+  <line x1="313" y1="275" x2="323" y2="265" stroke="#2e7d32" stroke-width="3"/>
+</svg>

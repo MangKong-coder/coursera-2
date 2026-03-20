@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="sky8" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#90caf9"/>
+      <stop offset="100%" stop-color="#e1f5fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#sky8)"/>
+  <rect y="300" width="400" height="100" fill="#b3e5fc"/>
+  <polygon points="40,300 120,100 200,300" fill="#cfd8dc"/>
+  <polygon points="120,100 150,130 120,300 80,300" fill="#eceff1"/>
+  <polygon points="150,300 250,60 350,300" fill="#b0bec5"/>
+  <polygon points="250,60 280,100 260,300 210,300" fill="#cfd8dc"/>
+  <polygon points="280,300 340,150 400,300" fill="#cfd8dc"/>
+  <polygon points="340,150 360,180 350,300 310,300" fill="#eceff1"/>
+  <polygon points="100,120 120,100 140,120" fill="#fff"/>
+  <polygon points="230,80 250,60 270,80" fill="#fff"/>
+  <polygon points="320,170 340,150 360,170" fill="#fff"/>
+</svg>
